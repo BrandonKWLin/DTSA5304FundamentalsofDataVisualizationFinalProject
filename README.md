@@ -1,4 +1,4 @@
-# BioSphere Econometrics
+# Final Project Submission for Fundamentals of Visualization Course
 # Overview
 - BioSphere Econometrics is an open-source tool for analyzing biotechnology data across 50+ U.S. states. It highlights trends in employment, economic impact, and regional strengths to empower innovation and research.
 
